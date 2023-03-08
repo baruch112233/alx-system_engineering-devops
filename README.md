@@ -1,1 +1,1 @@
-My repo for shell scripting projects
+My shell scripting repo
