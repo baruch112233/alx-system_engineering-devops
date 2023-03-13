@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la *./ | grep -v . .. 
+find . -type d -not -name . -not -name .. | wc -l 
