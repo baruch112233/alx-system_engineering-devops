@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(dec2base9 $(($(($((8#$WATER))+$((5#$STIR))))))) | tr 012345678 ti.itirtrtr 
