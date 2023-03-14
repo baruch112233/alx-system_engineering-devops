@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDGE="n" | echo $((128+"n"\n)) 
+echo $((128+$TRUEKNOWLEDGE\n)) 
